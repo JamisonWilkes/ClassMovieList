@@ -7,7 +7,7 @@ export default function Main(){
     <Router>
       <div className="container">
         <header>
-          <h1>Top 10 Movies</h1>
+          <h1>Top 10 Movies: Jamison Wilkes</h1>
         </header>
         <MovieList/>
       </div>
